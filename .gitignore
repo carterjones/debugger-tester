@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*.c
+!*.h
+!*.sln
+!*.vcxproj
+!debugger_tester
+!README.md
+!UNLICENSE
